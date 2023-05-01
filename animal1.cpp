@@ -4,6 +4,7 @@
 #include<vector>
 #include<string>
 using namespace std ;
+// declare animal class
 class animal{
 	private:
 
